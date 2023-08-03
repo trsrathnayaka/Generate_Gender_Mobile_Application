@@ -1,5 +1,4 @@
 # Generate_Gender_Mobile_Application
-A new Flutter project.
 Generate Gender Mobile Application Using Flutter With Api
 
 ## ScreenShots
